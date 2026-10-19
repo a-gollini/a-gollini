@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Alessandro 👋
 
-<!--
-**a-gollini/a-gollini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cryptographer turned backend engineer, based in Milan, Italy.
 
-Here are some ideas to get you started:
+I work on **wallet custody** and **threshold cryptography (MPC/TSS)**, and I've spent years building production systems in **.NET**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building here
+
+Public, from-scratch projects based on published research only, to explore the same problem across different languages:
+
+| Project | Stack | Status |
+|---|---|---|
+| Threshold ECDSA on secp256k1 | C# / .NET 10 | In progress |
+| Same design, second port | Python | Planned |
+| Same design, third port | Rust | Planned |
+
+## Skills
+
+- **Languages:** C#, Python (refreshing), Rust (learning), Go (planned)
+- **Domains:** applied cryptography, MPC/TSS, wallet custody, backend architecture
+- **Practices:** clean layered architecture, automated testing, documentation
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/alessandro-gollini-5008391ab)
