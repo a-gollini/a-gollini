@@ -12,11 +12,11 @@ Public, from-scratch projects based on published research only, to explore the s
 |---|---|---|
 | [threshold-ecdsa-dotnet](https://github.com/a-gollini/threshold-ecdsa-dotnet): threshold ECDSA on secp256k1 (Feldman VSS, DKG, threshold signing, REST API) | C# / .NET 10 | Working, with CI |
 | [threshold-ecdsa-python](https://github.com/a-gollini/threshold-ecdsa-python): same design, pure-Python core + FastAPI | Python | Working, with CI |
-| Same design, third port | Rust | Planned |
+| [threshold-ecdsa-rust](https://github.com/a-gollini/threshold-ecdsa-rust): same design, from-scratch core + axum | Rust | Working, with CI |
 
 ## Skills
 
-- **Languages:** C#, Python, Rust (learning), Go (planned)
+- **Languages:** C#, Python, Rust, Go (planned)
 - **Domains:** applied cryptography, MPC/TSS, wallet custody, backend architecture
 - **Practices:** clean layered architecture, automated testing, documentation
 
