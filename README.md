@@ -10,7 +10,7 @@ Public, from-scratch projects based on published research only, to explore the s
 
 | Project | Stack | Status |
 |---|---|---|
-| Threshold ECDSA on secp256k1 | C# / .NET 10 | In progress |
+| [threshold-ecdsa-dotnet](https://github.com/a-gollini/threshold-ecdsa-dotnet): threshold ECDSA on secp256k1 (Feldman VSS, DKG, threshold signing, REST API) | C# / .NET 10 | Working, with CI |
 | Same design, second port | Python | Planned |
 | Same design, third port | Rust | Planned |
 
